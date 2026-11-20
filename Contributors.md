@@ -4343,6 +4343,7 @@ andrewcodess
 - [Fahmiajik](https://github.com/fahmiajik12)
 - [Faisal Al Ramahi](https://github.com/Rama7ii)
 - [Faizan Siddiqui](https://github.com/erfaizan2001)
+- [David Stroupe](https://github.com/dnstroupe)
 - [Fan Yuhang](https://github.com/escapefyh)
 - [Fardeen Riaz Ahamed](https://github.com/Fardeen0-0)
 - [Faslu Olassery](https://github.com/fasluolassery)
